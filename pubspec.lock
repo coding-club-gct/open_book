@@ -17,6 +17,21 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
+  catppuccin:
+    dependency: transitive
+    description:
+      name: catppuccin
+      sha256: "91fb2c87b7c67eb7f43ae7105845d6929f7142acc082cc06bd93c739d2310b00"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.1"
+  catppuccin_theme:
+    dependency: "direct main"
+    description:
+      path: "lib/catppuccin"
+      relative: true
+    source: path
+    version: "0.0.1"
   characters:
     dependency: transitive
     description:

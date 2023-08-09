@@ -1,0 +1,3 @@
+[submodule "lib/catppuccin"]
+	path = lib/catppuccin
+	url = https://github.com/coding-club-gct/flutter_theme
